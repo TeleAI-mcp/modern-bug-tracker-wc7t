@@ -1,2 +1,3 @@
-# modern-bug-tracker-wc7t
+# Modern Bug Tracker Wc7T
+
 A bug and issue tracking system for modern development workflows.
